@@ -29,17 +29,17 @@ def moving_average(df, k):
     return new_df
 
 
-y_7_week = moving_average(df, 7)
-y_15_week = moving_average(df, 15)
+mavg7 = moving_average(df, 7)
+mavg15 = moving_average(df, 15)
 
-plt.plot(y_7_week["Week"], y_7_week["BTC price"])
+plt.plot(mavg7["Week"], mavg7["BTC price"])
 plt.title("k = 7")
 plt.xlabel("work week")
 plt.ylabel("closing price (USD)")
 plt.show()
 
-plt.plot(y_15_week["Week"], y_15_week["BTC price"])
-plt.title("k = 7")
+plt.plot(mavg15["Week"], mavg15["BTC price"])
+plt.title("k = 15")
 plt.xlabel("work week")
 plt.ylabel("closing price (USD)")
 plt.show()
