@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c336d650-a962-4191-a49c-fe19e75a9b1c" name="Changes" comment="Added HW2 CSV File">
+    <list default="true" id="c336d650-a962-4191-a49c-fe19e75a9b1c" name="Changes" comment="Completed HW2 Q6(i)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Homework2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homework2.py" afterDir="false" />
     </list>
@@ -25,6 +25,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
@@ -92,7 +95,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706847313681</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Completed HW2 Q6(i)">
+      <option name="closed" value="true" />
+      <created>1706848172968</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1706848172968</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -110,6 +121,7 @@
     <MESSAGE value="HW1" />
     <MESSAGE value="HW1 New" />
     <MESSAGE value="Added HW2 CSV File" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added HW2 CSV File" />
+    <MESSAGE value="Completed HW2 Q6(i)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed HW2 Q6(i)" />
   </component>
 </project>
