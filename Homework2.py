@@ -1,4 +1,4 @@
-# Part (i)
+# Q6 Part (i)
 
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -12,8 +12,9 @@ plt.title("BTC-USD,Jan 2018-Jan 2023")
 plt.xlabel("work week")
 plt.ylabel("closing price (USD)")
 
-# Part (ii)
+# Q6 Part (ii)
 
+# Parameters of function: dataframe containing original data, number of samples
 def moving_average(df, k):
     if k == 1:
         return df
