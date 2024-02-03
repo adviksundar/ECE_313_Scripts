@@ -14,7 +14,7 @@ plt.ylabel("closing price (USD)")
 
 # Q6 Part (ii)
 
-# Parameters of function: dataframe containing original data, number of samples
+# Parameters of function: dataframe containing original data (df), number of samples (k)
 def moving_average(df, k):
     if k == 1:
         return df
