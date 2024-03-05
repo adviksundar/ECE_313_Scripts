@@ -1,1 +1,1 @@
-This is a repository filled with data analysis scripts that I made in my Linear Systems and Signals Class (ECE 313 in UT Austin). My scripts involve, for example, projects that mathematically model several signals and data points. Enjoy!
+This is a repository filled with data analysis scripts that I made in my Linear Systems and Signals Class (ECE 313 in UT Austin). My Python and MATLAB scripts involve, for example, projects that mathematically model several signals and data points. Enjoy!
