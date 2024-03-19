@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c336d650-a962-4191-a49c-fe19e75a9b1c" name="Changes" comment="Finished HW2">
+      <change afterPath="$PROJECT_DIR$/Homework7.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,6 +42,7 @@
   "keyToString": {
     "Python.Homework1.executor": "Run",
     "Python.Homework2.executor": "Run",
+    "Python.Homework7.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
