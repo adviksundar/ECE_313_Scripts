@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c336d650-a962-4191-a49c-fe19e75a9b1c" name="Changes" comment="Finished HW2">
-      <change afterPath="$PROJECT_DIR$/Homework7.py" afterDir="false" />
+    <list default="true" id="c336d650-a962-4191-a49c-fe19e75a9b1c" name="Changes" comment="Finished HW7">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +21,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "adviksundar"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="a4005ed7-01fb-41e5-86c8-936cc5dbb4af" />
+        <option name="url" value="https://github.com/adviksundar/ECE_313_Scripts.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -161,7 +174,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706922657415</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Finished HW7">
+      <option name="closed" value="true" />
+      <created>1710874578713</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1710874578713</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -183,6 +204,7 @@
     <MESSAGE value="Did some HW2 Q6(ii)" />
     <MESSAGE value="Did more HW2 Q6(ii)" />
     <MESSAGE value="Finished HW2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished HW2" />
+    <MESSAGE value="Finished HW7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished HW7" />
   </component>
 </project>
